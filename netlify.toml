@@ -3,4 +3,4 @@
   to = "https://60f5dd8ca0aa276b3b3baec0a8fd6c20.m.pipedream.net"
   status = 200
   force = true
-  sign = "secret"
+  sign = "TOKEN"
