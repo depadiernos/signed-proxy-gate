@@ -14,7 +14,7 @@ export const getInvalid = () => {
 const get = token => {
   fetch('/gated-content', {
     headers: {
-      Authorization: 'Bearer ' + token,
+      // Authorization: 'Bearer ' + token,
     },
   })
     .then(response => response.json())
